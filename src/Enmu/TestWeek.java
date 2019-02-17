@@ -7,5 +7,5 @@ public class TestWeek {
         Week wes=Week.WES;
         mon.show();
     }
-}//hnj
+}
 
