@@ -3,6 +3,7 @@ package Enmu;
 public abstract class Week {
     public static final Week MON=new Week("星期一"){
         @Override
+        
         public void show() {
             System.out.println("星期一");
         }
